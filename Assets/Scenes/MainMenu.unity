@@ -2878,7 +2878,7 @@ AudioSource:
   m_GameObject: {fileID: 1337980914}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 6911361675980609545, guid: 2a83dfa23e3c3a64a849f3ab4fbdb87d, type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -2977,8 +2977,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4290a2498fc81b4894976a73ba08e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerShoot: {fileID: 8300000, guid: ad4e5ba04fd6b7b419ebe09f24728896, type: 3}
-  asteroidExplosion: {fileID: 8300000, guid: d9e1469d3fa4adc4c8f989c7247bbe59, type: 3}
+  playerShoot: {fileID: 8300000, guid: 8a60ad148c594594dae89b6f82c8e99f, type: 3}
+  asteroidExplosion: {fileID: 8300000, guid: 31ed6db561a4f5e489762d32cbbacfcf, type: 3}
   playerDamage: {fileID: 8300000, guid: ab8cfe7355fedfd4390f7b0df820809c, type: 3}
   playerExplosion: {fileID: 8300000, guid: e8755ac9be487ed4da8b7226157f31f6, type: 3}
   BgMusicGameplay: {fileID: 8300000, guid: 9aced58c92606c84b943ffe0093ba743, type: 3}
@@ -3608,7 +3608,7 @@ AudioSource:
   m_GameObject: {fileID: 1855683727}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 5632825535020750647, guid: 2a83dfa23e3c3a64a849f3ab4fbdb87d, type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 0.25
